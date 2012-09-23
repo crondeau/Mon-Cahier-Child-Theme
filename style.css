@@ -1,0 +1,24 @@
+/*
+Theme Name: Mon Cahier Child
+Description: Child Theme of Mon Cahier
+Author: Insert your name here
+Template: mon-cahier
+Version: 1.0
+
+*/
+
+@import url("../mon-cahier/style.css");
+
+body,
+button,
+input,
+select,
+textarea {
+	font-family: 'helvetica', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Georgia', serif;
+}
+
+
